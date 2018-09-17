@@ -1,8 +1,8 @@
 A quick chat program in go for learning/demo purposes. This is a WIP.
 
-Demo:
+Demo available on AWS:
 
-> `telnet 18.191.145.104 6000` running on AWS
+> `telnet 18.191.145.104 6000`
 
 # goChat
 tcp gochat client demo
